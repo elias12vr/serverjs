@@ -1,0 +1,19 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "es un servidor basico de node js con un puerto",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "node.js",
+    "server",
+    "cliente",
+    "puertos",
+    "practica",
+    "node"
+  ],
+  "author": "Jose",
+  "license": "ISC"
+}
